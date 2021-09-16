@@ -1,4 +1,4 @@
-//이게 수정이 되는건지 모르겠어요!!!!! 준형아 무슨 연동
+//....................................-박준형
 public class main {
 
 	public static void main(String[] args) {
